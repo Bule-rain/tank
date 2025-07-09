@@ -3,7 +3,7 @@ package com.chulung.tank.config;
 /**
  * 
  * @说明 子弹配置 
- * @作者 ZZ
+ * @作者 ZZmzz
  * @创建时间 2014年2月8日 上午11:47:36
  * @遗留问题
  */
